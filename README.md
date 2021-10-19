@@ -14,3 +14,7 @@ My main interest is the tripartite network analysis in two important topics:
 * **Community detection**. Also called clustering in (sligthly) different contexts, and it can be used to detect clusters of users based on the groups they frecuent and the keyword they use, for instance.
 
 I already developed many algorithms to do **link prediction** and **community detection** in multipartite networks, but I was lacking of datasets to test them.
+
+# NETWORK VISUALIZATION
+
+Testing an [interactive network visualization](https://raw.githack.com/JorgeRuizBerlin/reddit-tripartite-network/main/test_gguN.html), where it's possible to move around the nodes and more.
