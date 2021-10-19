@@ -17,4 +17,4 @@ I already developed many algorithms to do **link prediction** and **community de
 
 # NETWORK VISUALIZATION
 
-Testing an [interactive network visualization](https://raw.githack.com/JorgeRuizBerlin/reddit-tripartite-network/main/test_gguN.html), where it's possible to move around the nodes and more.
+Testing an [interactive network visualization](https://raw.githack.com/JorgeRuizBerlin/reddit-tripartite-network/main/bipartite_ggu.html), where it's possible to move around the nodes and more.
